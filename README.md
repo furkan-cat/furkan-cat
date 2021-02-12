@@ -1,10 +1,11 @@
 <h1 align="center">Hello 👋 Everyone!</h1>
-<h3 align="center">My name is Furkan. I'm from Turkey. I'm studiying on the frontend develeping by myself around 4 months.</h3>
+<h3 align="center">My name is Furkan. I'm from Turkey. I'm studiying on the frontend develeping by myself around 4 months</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="insomniumferum" /> </p>
 
 - 📫 How to reach me **furi544@gmail.com**
-
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact **I love to play guitar, camping, tracking.**
 
 <h3 align="left">Connect with me:</h3>
