@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **furi544@gmail.com**
 - 🌱 I’m currently learning fundamental stuffs of frontend developing.
-- 🥅 2021 Goals: I can't wait get to work. Learn React, continue to enhance my HTML, CSS and JS skills.
+- 🥅 2021 Goals: I can't wait get to work. Learn React, continue to enhance my HTML, CSS and JS skills, learn one ui/ux design program (one of them: Photoshop, figma, adobeXD)
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
 <h3 align="left">Connect with me:</h3>
