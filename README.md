@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**InsomniumFerum/InsomniumFerum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JS
 - 👯 I can't wait to collaborate with someone in any project.
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 🥅 2021 Goals: Contribute more to Open Source projects, deepen my experience with JS, learn ReactJS and continue to enhance my all skills.
 - ⚡ Fun fact: I love to play guitar, camping, tracking.
--->
+
 
 ### Connect with me:
 
