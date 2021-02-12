@@ -21,7 +21,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insomniumferum)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insomniumferum&show_icons=true&locale=en" alt="insomniumferum" /></p>
-
-
