@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Furkan Çat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello 👋 Everyone!</h1>
+<h3 align="center">My name is Furkan. I'm from Turkey. I'm studiying on the frontend develeping by myself around 4 months. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="insomniumferum" /> </p>
 
