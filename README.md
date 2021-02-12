@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋 Everyone!</h1>
-<h3 align="center">My name is Furkan. I'm from Turkey. I've bachelor degreee in in Philology and now i'm studiying on the frontend developing by myself around 4 months. I really excited to become a real Front-End Developer. Please check my projects in my profile.</h3>
+<h3 align="center">It's Furkan from Turkey. I've bachelor degreee in Philology (RU/EN). I've been working in different companies as a translator. But because of during the Covid-19 I lost my job. During this time i've been learning frontend developing by myself for 4 months. I really excited to become a proffessional Front-End Developer. You are welcome to check my projects in my profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="insomniumferum" /> </p>
 
 - 📫 How to reach me **furi544@gmail.com**
 - 🌱 I’m currently learning fundamental stuffs of frontend developing.
-- 🥅 2021 Goals: I can't wait get to work. Learn React, continue to enhance my HTML, CSS and JS skills, learn one ui/ux design program (one of them: Photoshop, figma, adobeXD)
+- 🥅 2021 Goals: Learn React and one ui/ux design program (one of them: Photoshop, figma, adobeXD etc.), continue to enhance my HTML, CSS and JS skills. Taking into account all of these i can't wait get a job as a Front-End Developer!) 
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
 <h3 align="left">Connect with me:</h3>
