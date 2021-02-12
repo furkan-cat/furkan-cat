@@ -1,40 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Furkan Çat</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JS
-- 👯 I can't wait to collaborate with someone in any project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 🥅 2021 Goals: Contribute more to Open Source projects, deepen my experience with JS, learn ReactJS and continue to enhance my all skills.
-- ⚡ Fun fact: I love to play guitar, camping, tracking.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="insomniumferum" /> </p>
 
+- 📫 How to reach me **furi544@gmail.com**
 
-### Connect with me:
+- ⚡ Fun fact **I love to play guitar, camping, tracking.**
 
-[<img align="left" alt="FurkanCat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/furkancat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="furkancat" height="30" width="40" /></a>
+<a href="https://instagram.com/insomniumferum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="insomniumferum" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-### Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insomniumferum&show_icons=true&locale=en&layout=compact" alt="insomniumferum" /></p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-
-
-<br />
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsomniumFerum)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[twitter]: https://twitter.com/FurkanCat
-[instagram]: https://www.instagram.com/insomniumferum/
-[linkedin]: https://www.linkedin.com/in/furkan-%C3%A7at-20174216/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insomniumferum&show_icons=true&locale=en" alt="insomniumferum" /></p>
