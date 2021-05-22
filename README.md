@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 Everyone!</h1>
 <h3 align="center">It's Furkan from Turkey. I've bachelor degreee in Philology (RU/EN). I've been working in different companies as a translator. But i was not happy in that job. So pandemic process was the reason of encouraging me start to coding. During this time i've been learning frontend developing by myself for a 7 months. I really excited to become a proffessional Front-End Developer. You're welcome to check my projects in my profile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="insomniumferum" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
 - 📫 How to reach me **furi544@gmail.com**
 - 🌱 I’m currently learning fundamental stuffs of frontend developing.
@@ -23,5 +23,5 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsomniumFerum&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan-cat&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
