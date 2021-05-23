@@ -21,6 +21,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
+  
+  <a href="https://github.com/furkan-cat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-cat&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/muratdemirci/furkan-cat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-cat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a> 
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan-cat&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
