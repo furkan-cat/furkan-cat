@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 Everyone!</h1>
-<h3 align="center">It's Furkan from Turkey. I've bachelor degreee in Philology (RU/EN). I've been working in different companies as a translator. But i was not happy in that job. So pandemic process was the reason of encouraging me start to coding. During this time i've been learning frontend developing by myself for a 8 months. I really excited to become a proffessional Front-End Developer. You're welcome to check my projects in my profile.</h3>
+<h5 align="center">It's Furkan from Turkey. I've bachelor degreee in Philology (RU/EN). I've been working in different companies as a translator. But i was not happy in that job. So pandemic process was the reason of encouraging me start to coding. During this time i've been learning frontend developing by myself for a 8 months. I really excited to become a proffessional Front-End Developer. You're welcome to check my projects in my profile.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
