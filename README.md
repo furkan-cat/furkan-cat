@@ -24,6 +24,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></p>
-  
+    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan-cat&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkan-cat&theme=onedark&no-bg=true" alt="furkan-cat" /></a></p>
 
