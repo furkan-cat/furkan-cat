@@ -2,7 +2,7 @@
 <h4 align="center">Self-thought and highly motivated entry level Jr.Front End Developer. Currently i am reading a You Don't know
 JS, taking a Harvard CS50X course and also another courses in udemy. The opportunity to improve myself
 every day as far as in me lain excites me so much in the it-industry. I am trying to keep up-to-date my Github
-proﬁle with new projects. So don’t hesitate to check my projects on there.</h4>
+proﬁle with new projects. So don’t hesitate to check my projects here.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
