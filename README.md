@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
 - 📫 How to reach me **furi544@gmail.com**
-- 🌱 I’m currently diving deep to ReactJs.
+- 🌱 I’m currently diving deep to ReactJs and also I'm learning React Native.
 - 🥅 2021 Goals: Learn Typescript and continue to enhance my HTML, CSS and JS skills. Taking into account all of these i can't wait get a job as a Front-End Developer!) 
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
