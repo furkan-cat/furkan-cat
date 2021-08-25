@@ -1,5 +1,8 @@
 <h3 align="center">Hello 👋 Everyone!</h1>
-<h4 align="center">It's Furkan from Turkey. I've bachelor degreee in Philology (RU/EN). I've been working in different companies as a translator. But i was not happy in that job. So pandemic process was the reason of encouraging me start to coding. During this time i've been learning frontend developing by myself for a 10 months. I really excited to become a proffessional Front-End Developer. You're welcome to check my projects in my profile.</h4>
+<h4 align="center">Self-thought and highly motivated entry level Jr.Front End Developer. Currently i am reading a You Don't know
+JS, taking a Harvard CS50X course and also another courses in udemy. The opportunity to improve myself
+every day as far as in me lain excites me so much in the it-industry. I am trying to keep up-to-date my Github
+proﬁle with new projects. So don’t hesitate to check my projects on there.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
