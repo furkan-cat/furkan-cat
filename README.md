@@ -1,6 +1,5 @@
 <h3 align="center">Hello 👋 Everyone!</h1>
-<h4 align="center">Self-thought and highly motivated entry level Jr.Front End Developer. Currently i am reading a You Don't know
-JS, taking a Harvard CS50X course and also another courses in udemy. The opportunity to improve myself
+<h4 align="center">Self-thought and highly motivated entry level Jr.Front End Developer. Currently I am diving to deep ReactJS and also I am trying to basics of React Native. The opportunity to improve myself
 every day as far as in me lain excites me so much in the it-industry. I am trying to keep up-to-date my Github
 proﬁle with new projects. So don’t hesitate to check my projects here.</h4>
 
