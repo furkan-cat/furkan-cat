@@ -7,7 +7,7 @@ proﬁle daily. So don’t hesitate to check my projects here, to contact me if 
 
 - 📫 How to reach me **furi544@gmail.com**
 - 🌱 I’m currently diving deep to ReactJs and also I'm learning React Native.
-- 🥅 2021 Goals: Learn Typescript and continue to enhance my HTML, CSS and JS skills. Taking into account all of these i can't wait get a job as a Front-End Developer!) 
+- 🥅 2022 Goals: Learn Typescript and continue to enhance my HTML, CSS and JS skills. Taking into account all of these i can't wait get a job as a Front-End Developer!) 
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
 <h3 align="left">Connect with me:</h3>
