@@ -20,11 +20,11 @@ proﬁle daily. So don’t hesitate to check my projects here, to contact me if 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="45" height="45"/><a href="https://sass-lang.com" target="_blank"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="45" height="45"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="45" height="45"/></a>
   <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="45" height="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/></a>
-<a href="https://reactjs.org" target="_blank"><img width="50" height="50" src="https://skillicons.dev/icons?i=react"></a>
-<a align="left"><a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="50" height="50"/></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="50" height="50"/></a>
-<a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/></a>
-<a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="55" height="55"/></a>
+<a href="https://reactjs.org" target="_blank"><img width="55" height="55" src="https://skillicons.dev/icons?i=react"></a>
+<a align="left"><a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="5" height="55"/></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="55" height="55"/></a>
+<a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="55" height="55"/></a>
+<a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="55" height="55"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="45" height="45"/></a>
