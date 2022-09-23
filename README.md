@@ -6,7 +6,7 @@ proﬁle daily. So don’t hesitate to check my projects here, to contact me if 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
 - 📫 How to reach me **furi544@gmail.com**
-- 🌱 I’m currently diving deep to ReactJs.
+- 🌱 I’m currently diving deep to ReactJs, reading JS & React books.
 - 🥅 2022 Goals: Enhange my Typescript, JS, CSS knowledge. Learn Unit Testing via Jest & React Testing Library.
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
