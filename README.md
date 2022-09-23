@@ -1,5 +1,5 @@
 <h3 align="center">Hello 👋 Everyone!</h1>
-<h4 align="center">Self-thought and highly motivated entry level Jr.Front End Developer. Currently I am diving to deep ReactJS and also I am trying to basics of React Native. The opportunity to improve myself
+<h4 align="center">Self-thought and highly motivated entry level Front End Developer. Currently I am diving to deep ReactJS. The opportunity to improve myself
 every day as far as in me lain excites me so much. I am trying to keep up-to-date my Github
 proﬁle daily. So don’t hesitate to check my projects here, to contact me if you have any further questions or any job offers. I'd be happy to be a open to any relocation on a global level or any remotely job offers.</h4>
 
@@ -7,7 +7,7 @@ proﬁle daily. So don’t hesitate to check my projects here, to contact me if 
 
 - 📫 How to reach me **furi544@gmail.com**
 - 🌱 I’m currently diving deep to ReactJs.
-- 🥅 2022 Goals: Learn Typescript, Testing and continue to enhance my HTML, CSS and JS skills. Taking into account all of these i can't wait get a job as a Front-End Developer!) 
+- 🥅 2022 Goals: Enhange my Typescript, JS, CSS knowledge. Learn Unit Testing via Jest & React Testing Library.
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
 <h3 align="left">Connect with me:</h3>
