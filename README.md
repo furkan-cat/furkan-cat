@@ -7,7 +7,7 @@ proﬁle daily. So don’t hesitate to check my projects here, to contact me if 
 
 - 📫 How to reach me **furi544@gmail.com**
 - 🌱 I’m currently diving deep to ReactJs, reading JS & React books.
-- 🥅 2022 Goals: Enhange my Typescript, JS, CSS knowledge. Learn Unit Testing via Jest & React Testing Library.
+- 🥅 2023 Goals: Enhange my Typescript, JS, CSS knowledge. Learn Unit Testing via Jest & React Testing Library.
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
 <h3 align="left">Connect with me:</h3>
