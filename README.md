@@ -1,7 +1,7 @@
 <h3 align="center">Hello 👋 Everyone!</h1>
-<h4 align="center">Self-thought and highly motivated entry level Front End Developer. Currently I am diving to deep ReactJS. The opportunity to improve myself
+<h4 align="center">Self-thought and highly motivated entry level Front End Developer. The opportunity to improve myself
 every day as far as in me lain excites me so much. I am trying to keep up-to-date my Github
-proﬁle daily. So don’t hesitate to check my projects here, to contact me if you have any further questions or any job offers. I'd be happy to be a open to any relocation on a global level or any remotely job offers.</h4>
+proﬁle. So don’t hesitate to check my projects here, to contact me if you have any further questions or any job offers. I'd be happy to be a open to any relocation on a global level or any remotely job offers.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
