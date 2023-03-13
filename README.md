@@ -29,4 +29,6 @@ proﬁle. So don’t hesitate to check my projects here, to contact me if you ha
 <a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="55" height="55"/></a>
 <a href="https://testing-library.com" target="_blank"><img src="https://testing-library.com/img/logo-large.png" alt="vscode" width="45" height="45"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/></a>
+<a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="vscode" width="45" height="45"/></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="45" height="45"/></a>
+<a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="vscode" width="45" height="45"/></a>
