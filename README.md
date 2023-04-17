@@ -13,7 +13,6 @@ proﬁle. So don’t hesitate to check my projects here, to contact me if you ha
 <h3 align="left">Connect with me:</h3>
 <a href="//twitter.com/furkancat" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="35" width="35" /></a>
 <a href="https://www.linkedin.com/in/furkan-%C3%A7at-20174216/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" width="35" /></a>
-<a href="https://www.hackerrank.com/furi544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerrank" height="35" width="35" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="45" height="45"/></a> 
@@ -32,3 +31,5 @@ proﬁle. So don’t hesitate to check my projects here, to contact me if you ha
 <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="vscode" width="45" height="45"/></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="45" height="45"/></a>
 <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="vscode" width="45" height="45"/></a>
+  
+![Codewars](https://github.r2v.ch/codewars?user=furi544)
