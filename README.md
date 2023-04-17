@@ -32,4 +32,4 @@ proﬁle. So don’t hesitate to check my projects here, to contact me if you ha
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="45" height="45"/></a>
 <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="vscode" width="45" height="45"/></a>
   
-![Codewars](https://github.r2v.ch/codewars?user=furi544)
+![Codewars](https://github.r2v.ch/codewars?user=furi544&stroke=%23BB432C)
