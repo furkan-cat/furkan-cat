@@ -6,7 +6,7 @@ proﬁle. So don’t hesitate to check my projects here, to contact me if you ha
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insomniumferum&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-cat" /> </p>
 
 - 📫 How to reach me **furi544@gmail.com**
-- 🌱 I’m currently diving deep to Next 13, testing with RTL and Jest, Vue, Node.js.
+- 🌱 I’m currently diving deep to Next 13, testing with RTL and Jest, Vue.
 - 🥅 2023 Goals: Enhange my Typescript, JS frameworks testing with Jest & RTL, Node.js, algorithm via codewars  - skills.
 - ⚡ Fun fact: I love to play guitar, camping, tracking.**
 
